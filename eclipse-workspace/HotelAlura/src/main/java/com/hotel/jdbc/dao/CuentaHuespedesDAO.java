@@ -63,4 +63,8 @@ public class CuentaHuespedesDAO {
 			throw new RuntimeException(e);
 		}
 	}
+	
+	public void eliminar() {
+		
+	}
 }
